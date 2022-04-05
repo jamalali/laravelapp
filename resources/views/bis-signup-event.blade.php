@@ -1,0 +1,4 @@
+{
+    "response": {{ $response }},
+    "comments": "{{ $comments }}"
+}
